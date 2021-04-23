@@ -3,7 +3,7 @@
   "servers": [
     "https://mirrors.thpatch.net/LmocinemodPatchRepo/marisa_silent_laser/"
   ],
-  "title": "Makes Marisa's laser silent in th12 and above.",
+  "title": "Makes Marisa's laser silent in th12+",
   "dependencies": [
     "nmlgc/base_tsa"
   ]
