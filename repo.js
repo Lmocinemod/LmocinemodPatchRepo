@@ -2,7 +2,8 @@
   "contact": "https://twitter.com/Lmocinemod",
   "id": "LmocinemodPatchRepo",
   "patches": {
-    "marisa_silent_laser": "Makes Marisa's laser silent in th12+"
+    "marisa_silent_laser": "[th12+] Makes Marisa's laser silent",
+    "marisa_quiet_missiles": "[th13+] Makes Marisa's missiles sound like they do in th11"
   },
   "servers": [
     "https://mirrors.thpatch.net/LmocinemodPatchRepo/"
