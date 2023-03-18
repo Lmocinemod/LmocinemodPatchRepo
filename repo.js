@@ -1,5 +1,5 @@
 {
-  "contact": "https://twitter.com/Lmocinemod",
+  "contact": "",
   "id": "LmocinemodPatchRepo",
   "patches": {
     "marisa_silent_laser": "[th12+] Makes Marisa's laser silent",
